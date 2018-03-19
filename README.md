@@ -1,6 +1,6 @@
-#qa_preclass_work
+# qa_preclass_work
 
-##Create a new repository on the command line
+## Create a new repository on the command line
 echo "# qa_preclass_work" >> README.md
 git init
 git add README.md
