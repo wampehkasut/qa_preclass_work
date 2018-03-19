@@ -10,14 +10,14 @@ git push -u origin master
 
 ***
 
-##Push an existing repository from the command line
+## Push an existing repository from the command line
 
 git remote add origin https://github.com/wampehkasut/qa_preclass_work.git
 git push -u origin master
 
 
 ---
-#Markdown Tips
+# Markdown Tips
 
 [Taken from](https://markdown-it.github.io/)
 
